@@ -11,7 +11,7 @@ public class HelloworldApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(HelloworldApplication.class, args);
-		System.out.println("Balaji Hello World")
+		System.out.println("Hello World")
 	}
 
 }
